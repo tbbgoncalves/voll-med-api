@@ -1,8 +1,8 @@
 ## 💻 Sobre o projeto
 
-Voll.med é uma clínica médica fictícia que precisa de um aplicativo para gestão de consultas. O aplicativo deve possuir funcionalidades que permitam o cadastro de médicos e de pacientes, e também o agendamento e cancelamento de consultas.
+A Voll.med, uma clínica médica fictícia, necessita de um aplicativo para gerenciamento de consultas. Este deve oferecer funcionalidades para o cadastro de médicos e pacientes, além de possibilitar o agendamento e cancelamento de consultas.
 
-Enquanto um time de desenvolvimento será responsável pelo aplicativo mobile, o nosso será responsável pelo desenvolvimento da API Rest desse projeto.
+Como back-end, atuei no desenvolvimento da API Rest para este projeto, realizando a implementação do CRUD de médicos, processando as requisições HTTP originadas do app.
 
 ---
 
