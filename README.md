@@ -8,10 +8,10 @@ Como back-end, atuei no desenvolvimento da API Rest para este projeto, realizand
 
 ## ⚙️ Funcionalidades
 
-- [x] CRUD de médicos;
-- [x] CRUD de pacientes;
-- [ ] Agendamento de consultas(em breve);
-- [ ] Cancelamento de consultas(em breve);
+- [x] CRUD de médicos
+- [x] CRUD de pacientes
+- [ ] Agendamento de consultas (em breve)
+- [ ] Cancelamento de consultas (em breve)
 
 ---
 
@@ -43,7 +43,7 @@ As seguintes tecnologias foram utilizadas no desenvolvimento da API Rest do proj
 
 ## 📝 Licença
 
-Projeto desenvolvido por [Alura](https://www.alura.com.br) e utilizado nos cursos de Spring Boot.
+Projeto desenvolvido por [Alura](https://www.alura.com.br) e utilizado na formação [Java e Spring Boot](https://cursos.alura.com.br/formacao-spring-boot-3).
 
 Instrutor: [Rodrigo Ferreira](https://cursos.alura.com.br/user/rodrigo-ferreira)
 
