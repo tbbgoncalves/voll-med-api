@@ -1,5 +1,7 @@
 ## 💻 Sobre o projeto
 
+![logo](https://trello-backgrounds.s3.amazonaws.com/52d9712b15e478735b6f5daf/1280x711/cddb3fab8d06c1379a9816bd0b2eac42/Screenshot_from_2022-08-25_15-29-49.png)
+
 A Voll.med, uma clínica médica fictícia, necessita de um aplicativo para gerenciamento de consultas. Este deve oferecer funcionalidades para o cadastro de médicos e pacientes, além de possibilitar o agendamento e cancelamento de consultas.
 
 Como back-end, atuei no desenvolvimento da API Rest para este projeto, realizando a implementação do CRUD de médicos, processando as requisições HTTP originadas do app.
